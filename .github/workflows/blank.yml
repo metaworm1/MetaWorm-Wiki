@@ -1,0 +1,5 @@
+`cd /path/to/your/directory`
+`git clone https://github.com/Chainsafe/Metaworm.wiki.git`
+`cd ChainSafe/Metaworm/wiki'
+`git remote set-url origin https://github.com/ChainSafe/Metaworm/wiki/metaworm1/MetaWorm-Wiki/wiki
+'git push origin main`
